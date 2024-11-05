@@ -1,0 +1,60 @@
+# .NET Core & ASP.NET Core
+bin/
+obj/
+*.db
+*.ds_store
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+logs/
+
+# Crash Reports
+*.crash
+
+# NCrunch
+*.ncrunch*
+NCrunchTemp/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dcov
+
+# Backup & Report Files
+*.bak
+*.pdb
+*.rdlc
+*.rpt
+
+# Azure Build
+.vs/
+.vscode/
+
+# Publish folder
+publish/
+
+# Azure Functions
+local.settings.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
