@@ -38,10 +38,6 @@ The solution consists of the following projects:
 - **FluentValidation**: Used in the `Application` layer to validate incoming requests before processing them.
 - **Dependency Injection**: Dependency injection is set up in the `WebApp` project to connect all services and interfaces across layers.
 
-## RESTful Endpoints
-
-This project provides a set of RESTful endpoints that facilitate interactions with the application's functionality. These endpoints are defined in the `Presentation` layer, which utilizes ASP.NET controllers to handle incoming HTTP requests and send appropriate responses.
-
 ## Getting Started
 
 1. **Clone the repository**:
